@@ -1,2 +1,2 @@
 # cgxyz-chat
-A chat page, synchronized with slack, Resolve limits that can not search 10,000 chat records
+A chat page that synchronizes with slack and solves the limitations of not searching 10,000 chat records
